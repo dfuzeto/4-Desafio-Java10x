@@ -2,7 +2,7 @@
 ## Descrição
 
 Este projeto foi desenvolvido como parte do Desafio Java 10x 4. O objetivo é treinar o uso de polimorfismo e interfaces em Java. A simulação envolve dois tipos de ninjas (Shinobi e Anbu) que executam habilidades e exibem informações.
-Estrutura
+## Estrutura
 
     Shinobi: Ninja básico com uma habilidade.
 
